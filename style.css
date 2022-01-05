@@ -1,0 +1,17 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: xx-large;
+    margin: 150px;
+    background-color: black;
+    
+}
+.add-color{
+    color: white;
+}
+.flexible-container{
+    display: flex;
+}
+.gap{
+    
+    padding: 10%;
+}
